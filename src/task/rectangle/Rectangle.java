@@ -21,12 +21,6 @@ public class Rectangle {
 		this.width = (float) d;
 	}
 
-//	public Rectangle() {
-//		super();
-//		this.lenght = lenght;
-//		this.width = width;
-//}
-
 	public Rectangle(double d, double e) {
 		// TODO Auto-generated constructor stub
 	}

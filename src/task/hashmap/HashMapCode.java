@@ -5,7 +5,8 @@ public class HashMapCode {
 
 	public static void main(String[] args) {
 		Map<String, String> countryCodeMap = new HashMap<>();
-		
+// A HashMap however, store items in "key/value" pairs,
+// and you can access them by an index of another type		
 		countryCodeMap.put("AU", "Australia");
 		countryCodeMap.put("BH", "Bahamas");
 		countryCodeMap.put("CA", "Canada");

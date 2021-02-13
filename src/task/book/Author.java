@@ -1,7 +1,5 @@
 package task.book;
 
-import task.author.*;
-
 public class Author {
 	private String name;
 	private String email;
